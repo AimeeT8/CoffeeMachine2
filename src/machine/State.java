@@ -1,0 +1,7 @@
+package machine;
+
+public enum State {
+    MAIN_MENU, COFFEE_MENU, FILLING_WATER, FILLING_MILK, FILLING_COFFEE, FILLING_CUPS
+
+
+}
