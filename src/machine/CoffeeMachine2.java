@@ -1,5 +1,10 @@
 package machine;
 
+/**
+ * @author: A Temple
+ * @2022-02-07
+ */
+
        public class CoffeeMachine2 {
 
            private int money;

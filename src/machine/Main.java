@@ -2,6 +2,11 @@ package machine;
 
 import java.util.Scanner;
 
+/**
+ * @author: A Temple
+ * @2022-02-07
+ */
+
 public class Main {
 
     public static void main(String[] args) {
